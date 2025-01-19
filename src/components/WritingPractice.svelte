@@ -21,7 +21,7 @@
 		ctx.strokeStyle = '#000';
 		ctx.lineWidth = 3;
 		currentCharacter = character;
-	});
+	}); 
 
 	function startDrawing(e) {
 		drawing = true;
